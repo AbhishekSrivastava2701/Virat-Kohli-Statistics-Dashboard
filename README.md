@@ -14,7 +14,7 @@ The **Virat Kohli Statistics Dashboard** is an interactive data visualization to
 - **Excel/Spreadsheet**: Data manipulation and preparation before importing into Power BI.
 
 ## Project Links
-- **Dashboard**: [https://app.powerbi.com/reportEmbed?reportId=4299961a-4e86-4475-b63f-e95083ad1d24&autoAuth=true&ctid=e8c4f825-236e-4d96-b2e1-5e8ab7cf22e0]
+- **Dashboard**: [Virat Kohli Statistics Dashboard](https://app.powerbi.com/reportEmbed?reportId=4299961a-4e86-4475-b63f-e95083ad1d24&autoAuth=true&ctid=e8c4f825-236e-4d96-b2e1-5e8ab7cf22e0)
 - **Spreadsheet/Excel**: [Virat Kohli Statistics Spreadsheet](https://docs.google.com/spreadsheets/d/1605p26GN_tKbLoCrm9N1hmsNcujWSTk1ifbRbqC79Uo/edit?gid=1417091480#gid=1417091480)
 
 ## Installation
